@@ -1,0 +1,23 @@
+
+
+1) mkdir shopping_app_example ,  cd shopping_app_example 
+2) git clone https://github.com/Hong-JunHyeok/shopping_app_example.git .  
+3) (cd shopping_app_example) 
+   + 첨부파일: .yarnrc.yml package.json yarn.lock .gitignore 
+   yarn install 
+3) yarn run:server
+4) yarn run:client
+5) yarn run:both
+
+-----
+
+* yarn 설치
+1) node.js 설치 
+   or nvm-setup.zip 설치,  nvm install 8.10.0 , nvm use 8.10.0 , 
+   node -v
+2) npm install -g npm@10.8.3
+3) npm install -g yarn 
+4) yarn global add create-react-app
+   corepack enable  
+5) cd shopping_app_example
+
