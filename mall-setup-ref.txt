@@ -21,3 +21,4 @@
    corepack enable  
 5) cd shopping_app_example
 
+--- 
